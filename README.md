@@ -1,6 +1,6 @@
 # springprojectwal
 
-PLEASE OPEN THE READ ME PDF FOR DETAILED READ ME WITH IMAGES. 
+**PLEASE OPEN THE READ ME PDF FOR DETAILED READ ME WITH IMAGES** 
 
 Spring Project - The Trainer Database. 
 
